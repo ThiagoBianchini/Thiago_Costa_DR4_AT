@@ -1,11 +1,12 @@
-.lista-bandas{
-    display: flex;
-    flex-direction: column;
-    gap: 2em;
+.lista-bandas {
+  display: flex;
+  flex-direction: row;
+  gap: 2em;
+  list-style: none;
 }
 
-.item-lista{
-    background-color: rgb(34, 34, 34);
-    border-radius: 10px;
-    padding: 20px;
+.item-lista {
+  background-color: rgb(34, 34, 34);
+  border-radius: 10px;
+  padding: 20px;
 }

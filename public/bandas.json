@@ -2,33 +2,28 @@
     "bandas": [
       {
         "nome": "Queen",
-        "origem": "Londres, Inglaterra",
         "genero": ["Rock", "Hard Rock", "Glam Rock"],
-        "musica_mais_famosa": "Bohemian Rhapsody"
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/5/55/Sheer_Heart_Attack.jpg"
       },
       {
         "nome": "Men at Work",
-        "origem": "Melbourne, Austrália",
         "genero": ["Rock", "Pop Rock", "New Wave"],
-        "musica_mais_famosa": "Down Under"
+        "imagem": "https://m.media-amazon.com/images/I/71B9N5N7ONS._UF894,1000_QL80_.jpg"
       },
       {
         "nome": "Foster the People",
-        "origem": "Los Angeles, Califórnia, EUA",
         "genero": ["Indie Pop", "Indie Rock", "Synthpop"],
-        "musica_mais_famosa": "Pumped Up Kicks"
+        "imagem": "https://cdn-images.dzcdn.net/images/cover/fbeabd52a3a3e4b1b3ab79ce9fdec017/0x1900-000000-80-0-0.jpg"
       },
       {
         "nome": "Earth, Wind & Fire",
-        "origem": "Chicago, Illinois, EUA",
         "genero": ["R&B", "Soul", "Funk", "Disco"],
-        "musica_mais_famosa": "September"
+        "imagem": "https://upload.wikimedia.org/wikipedia/en/c/c9/Earth%2C_Wind_%26_Fire_-_Raise.jpg"
       },
       {
         "nome": "The Beatles",
-        "origem": "Liverpool, Inglaterra",
         "genero": ["Rock", "Pop", "Rock Psicodélico"],
-        "musica_mais_famosa": "Hey Jude"
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/3/3f/The_Beatles_-_Let_It_Be.jpg"
       }
     ]
   }
