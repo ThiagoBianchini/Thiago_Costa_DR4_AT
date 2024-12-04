@@ -8,7 +8,7 @@ function Visitante() {
 
   return (
     <div>
-      <h1>Bem-vindo à página de {nome}</h1>
+      <h1>Bem-vindo à página de {nomeFormatado}</h1>
     </div>
   );
 }
