@@ -1,0 +1,35 @@
+{
+    "bandas": [
+      {
+        "nome": "Queen",
+        "origem": "Londres, Inglaterra",
+        "genero": ["Rock", "Hard Rock", "Glam Rock"],
+        "musica_mais_famosa": "Bohemian Rhapsody"
+      },
+      {
+        "nome": "Men at Work",
+        "origem": "Melbourne, Austrália",
+        "genero": ["Rock", "Pop Rock", "New Wave"],
+        "musica_mais_famosa": "Down Under"
+      },
+      {
+        "nome": "Foster the People",
+        "origem": "Los Angeles, Califórnia, EUA",
+        "genero": ["Indie Pop", "Indie Rock", "Synthpop"],
+        "musica_mais_famosa": "Pumped Up Kicks"
+      },
+      {
+        "nome": "Earth, Wind & Fire",
+        "origem": "Chicago, Illinois, EUA",
+        "genero": ["R&B", "Soul", "Funk", "Disco"],
+        "musica_mais_famosa": "September"
+      },
+      {
+        "nome": "The Beatles",
+        "origem": "Liverpool, Inglaterra",
+        "genero": ["Rock", "Pop", "Rock Psicodélico"],
+        "musica_mais_famosa": "Hey Jude"
+      }
+    ]
+  }
+  
