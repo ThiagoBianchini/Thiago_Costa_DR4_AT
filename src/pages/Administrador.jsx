@@ -1,9 +1,10 @@
-import React from 'react';
-import { useLocation } from 'react-router-dom';
+import React from "react";
+import { useLocation } from "react-router-dom";
 
 function Administrador() {
-  const location = useLocation(); // useLocation retorna o objeto com pathname, search, etc.
-  const nome = location.pathname; // Acessando diretamente o pathname
+  const location = useLocation();
+  const nome = pagina.pathname.replace("/", "");
+  const nomeFormatado = nome.charAt(0).toUpperCase() + nome.slice(1);
 
   return (
     <div>
